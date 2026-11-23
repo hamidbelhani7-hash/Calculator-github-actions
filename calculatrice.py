@@ -9,4 +9,4 @@ def division(a, b):
 
 
 def soustraction(a, b):
-    return a + b  # bug volontaire
+    return a - b
